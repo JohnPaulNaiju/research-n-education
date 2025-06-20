@@ -5,9 +5,11 @@
 * **Bachelor of Technology (B.Tech) in Artificial Intelligence and Data Science**
 
 * **2021 – 2025**
+* Grade: 6.5 CGPA
 
 ### 2) 🏫 CMI Public School Chalakudy
 
 * **LKG to 12th Grade, Computer Science Stream**
 
 * **2007 – 2021**
+* Grade: 12th: 86.8%, 10th: 93.2%
