@@ -8,6 +8,7 @@
 
 * **2021 – 2025**
 * Grade: 6.5 CGPA
+* [See Certificate 1](https://github.com/JohnPaulNaiju/research-n-education/blob/main/certificates/WhatsApp%20Image%202025-06-24%20at%207.58.34%20PM.jpeg)
 
 ### 2) 🏫 CMI Public School Chalakudy
 
