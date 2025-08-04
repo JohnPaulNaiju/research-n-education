@@ -17,3 +17,11 @@
 * Grade: 12th: 86.8%, 10th: 93.2%
 
 <h2>Courses</h2>
+
+### 1) Bambu Lab 3D printing courses
+
+* Bought Bambu Lab A1 mini 3D printer and attended Bambu Lab academy courses for 3D printing. I am doing this because engineering includes design and manufacturing.
+
+* [See Certificate 1](https://github.com/JohnPaulNaiju/research-n-education/blob/main/certificates/Bambu%20Lab%20Academy%20Certificate%20of%20Completion%20(1).pdf)
+* [See Certificate 2](https://github.com/JohnPaulNaiju/research-n-education/blob/main/certificates/Bambu%20Lab%20Academy%20Certificate%20of%20Completion%20(2).pdf)
+* [See Certificate 3](https://github.com/JohnPaulNaiju/research-n-education/blob/main/certificates/Bambu%20Lab%20Academy%20Certificate%20of%20Completion.pdf)
