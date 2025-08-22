@@ -1,6 +1,6 @@
 <h1><img src="https://i.pinimg.com/originals/ee/7c/43/ee7c4374f599e383ff0d92d5de2f8d60.gif" alt="wave" width="100"/>Courses, Education and Research</h1>
 
-<h2>Education</h2>
+## Education
 
 ### 1) 🎓 APJ Abdul Kalam Technological University
 
@@ -21,7 +21,7 @@
 
 ---
 
-<h2>Courses</h2>
+## Courses
 
 ### 1) Bambu Lab 3D printing courses
 
