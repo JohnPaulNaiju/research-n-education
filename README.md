@@ -1,4 +1,4 @@
-<h1><img src="https://i.pinimg.com/originals/ee/7c/43/ee7c4374f599e383ff0d92d5de2f8d60.gif" alt="wave" width="100"/>Courses, Education and Research</h1>
+<h1>Courses, Education and Research<img src="https://i.pinimg.com/originals/ee/7c/43/ee7c4374f599e383ff0d92d5de2f8d60.gif" alt="wave" width="100"/></h1>
 
 ## Education
 
