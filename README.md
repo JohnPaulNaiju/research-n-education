@@ -10,12 +10,16 @@
 * Grade: 6.5 CGPA
 * [See Certificate 1](https://github.com/JohnPaulNaiju/research-n-education/blob/main/certificates/WhatsApp%20Image%202025-06-24%20at%207.58.34%20PM.jpeg)
 
+---
+
 ### 2) 🏫 CMI Public School Chalakudy
 
 * **LKG to 12th Grade, Computer Science Stream**
 
 * **2007 – 2021**
 * Grade: 12th: 86.8%, 10th: 93.2%
+
+---
 
 <h2>Courses</h2>
 
@@ -26,3 +30,5 @@
 * [See Certificate 1](https://github.com/JohnPaulNaiju/research-n-education/blob/main/certificates/Bambu%20Lab%20Academy%20Certificate%20of%20Completion%20(1).pdf)
 * [See Certificate 2](https://github.com/JohnPaulNaiju/research-n-education/blob/main/certificates/Bambu%20Lab%20Academy%20Certificate%20of%20Completion%20(2).pdf)
 * [See Certificate 3](https://github.com/JohnPaulNaiju/research-n-education/blob/main/certificates/Bambu%20Lab%20Academy%20Certificate%20of%20Completion.pdf)
+
+---
